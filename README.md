@@ -1,5 +1,8 @@
 # Oussama1209.github.io
 This is a list of the most relevant projects I did so far:
+- COVID-Behavioral-Data-Analysis
+- Mobile-Robot-Navigation
+- Rocket-Path-Simulation
 
 ## Project Title: COVID-Behavioral-Data-Analysis
 
