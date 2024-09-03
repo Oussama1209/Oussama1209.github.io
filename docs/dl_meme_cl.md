@@ -21,6 +21,6 @@ The proliferation of social media content, including a significant amount of hat
 This project successfully demonstrated the potential of multimodal approaches in identifying implicit hate speech in memes. By combining text and image data, the developed model outperformed several existing benchmarks, particularly on less challenging datasets like HarMeme. The insights gained from this project contribute to the ongoing efforts to improve hate speech detection on social media platforms.
 
 ### Report:
-Find a complete report in the file titled `Hateful_meme_classification.pdf` inside the folder `Multi-Model-Hateful-Meme-Classification-DeepLearning`.
+Find a complete report in the file titled `Hateful_meme_classification.pdf` inside the folder `MultiModel-HatefulMeme-Classification-DeepLearning`.
 
 ### [Back to Main README](../README.md)
