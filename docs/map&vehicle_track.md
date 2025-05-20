@@ -4,6 +4,11 @@
 ### Brief Description  
 Built an end-to-end system that stitches bird’s-eye drone images into a seamless high-resolution map and overlays tracked vehicle trajectories for traffic analysis.  
 
+<p align="center">
+  <img src="../Drone-Map-Creation-and-Vehicle-Tracking/results/final_panorama.jpg" alt="Image 1" width="300" />
+  <img src="../Drone-Map-Creation-and-Vehicle-Tracking/results/final_panorama_with_trajectories.png" alt="Image 2" width="300" />
+</p>
+
 ### Technologies Used  
 - Python  
 - OpenCV  
